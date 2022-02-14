@@ -1,3 +1,3 @@
 # aboutyourresearch.github.io
 
-- [ ] - my list of stuff
+- [ ] my list of stuff
