@@ -1,11 +1,20 @@
 ---
 layout: default
+title: SSG Test
 ---
 
-# Title
+# {title}
 
-### Here I am
+## {topic1}
 
-### Links
+{content}
 
-[new](aboutyourresearch.github.io/new)
+## Check List
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+## Links
+
+- [new](aboutyourresearch.github.io/new)
