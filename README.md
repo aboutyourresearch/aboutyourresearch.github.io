@@ -4,8 +4,6 @@ layout: default
 
 # SSG Test
 
-## {topic1}
-
 {content}
 
 ## Check List
